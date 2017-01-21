@@ -1,0 +1,19 @@
+{
+  "name": "rsa-scanner",
+  "version": "0.0.1",
+  "description": "RSA barcode scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RSA-Scanner"
+  },
+  "author": "Zachary Witt",
+  "license": "MIT",
+  "dependencies": {
+    "quagga":"*",
+    "webpack":"*"
+  }
+}
